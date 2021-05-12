@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2abcc7703f2ec810d8f509d7bfa4ff93.js"
+  "/precache-manifest.ba83558d59dc71018194e7aff894a2da.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cryptocurrency"});

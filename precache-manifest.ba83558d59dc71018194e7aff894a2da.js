@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d88629b74ed63e6a6da3",
-    "url": "/css/app.6c2496cf.css"
+    "revision": "9819c5e4b3ef895e1641",
+    "url": "/css/app.1b1d025e.css"
   },
   {
     "revision": "ae8519a3ba25d7c5dbd8",
@@ -12,12 +12,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/crypto-logo.86ed2672.svg"
   },
   {
-    "revision": "c12c60b6bccc3af207bc105049dc01b9",
+    "revision": "bd9028b735bc88b63122501018c23576",
+    "url": "/img/green-circle.bd9028b7.svg"
+  },
+  {
+    "revision": "558ae665b614aa41bd6ad1e27faea9b7",
+    "url": "/img/red-circle.558ae665.svg"
+  },
+  {
+    "revision": "19cf5a150b967b6680f367a4c0c5d15e",
     "url": "/index.html"
   },
   {
-    "revision": "d88629b74ed63e6a6da3",
-    "url": "/js/app.92961198.js"
+    "revision": "9819c5e4b3ef895e1641",
+    "url": "/js/app.8be641c7.js"
   },
   {
     "revision": "ae8519a3ba25d7c5dbd8",
